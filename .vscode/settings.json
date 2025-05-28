@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "dart.flutterHotReloadOnSave": "all",
+    "editor.acceptSuggestionOnEnter": "on",
+    "files.autoSaveDelay": 1500,
+    "github.copilot.enable": {
+        "*": false
+    }
+}
